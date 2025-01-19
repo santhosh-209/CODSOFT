@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.util.*;
-class Numberguess extends JFrame
+class NumberGuess extends JFrame
 {
 NumberGuess() 
 {
